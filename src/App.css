@@ -1,0 +1,62 @@
+body{
+  background-color: rgb(236, 231, 231);
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.h1-text{
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+.listData {
+  background-color: rgb(163, 157, 157);
+  width: 100vw; /* Ekran genişliğinin tamamı */
+  margin: 0;
+  padding: 0;
+  border-collapse: collapse; /* Hücreler arasındaki boşlukları kaldırır */
+  border: none; /* Herhangi bir border varsa kaldırır */
+  box-sizing: border-box; /* Padding ve border'ları genişliğe dahil eder */
+}
+
+.listData1 {
+  background-color: rgb(163, 157, 157);
+  width: 100vw; /* Ekran genişliğinin tamamı */
+  margin: 0;
+  padding: 0;
+  border-collapse: collapse; /* Hücreler arasındaki boşlukları kaldırır */
+  border: none; /* Herhangi bir border varsa kaldırır */
+  box-sizing: border-box; /* Padding ve border'ları genişliğe dahil eder */
+}
+
+
+.dark{
+  color: white;
+  background-color: rgb(22, 19, 19);
+  padding: 13px;
+}
+
+.light{
+  background-color: rgb(255, 255, 255);
+  color: black;
+  padding: 13px;
+}
+
+.List{
+  color: rgb(205, 13, 13);
+}
+
+.Finished{
+  color: rgb(8, 114, 8);
+}
+
+.TextArea{
+  text-align: center;
+}
+
+.Button{
+  text-align: center;
+}
